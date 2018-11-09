@@ -1,4 +1,4 @@
-## 2515518
+<p style="text-align: center;">## 2515518
 
 Number of Indian citizens who died in 2017 due to air pollution
 
@@ -10,4 +10,4 @@ Number of Indian citizens who died in 2017 due to air pollution
 
 Source: https://phys.org/news/2017-10-countries-highest-pollution-deaths-mortality.html#jCp
 
-Number of Indian citizens who died in 2017 due to air pollution
+</p>
